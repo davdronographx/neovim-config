@@ -1,1 +1,2 @@
-print("hello from sam")
+require("sam.packer")
+require("sam.remap")
